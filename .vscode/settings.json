@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b75beeb5-0116-48ec-bdd5-c4383215ae05/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/whatsappnode"
+}
